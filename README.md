@@ -1,12 +1,13 @@
+
 # ¡Hola! Soy Juan Bertossi 👋
 
 ### Frontend Developer | React · Next.js · TypeScript · React Native
 
 Desarrollador de software enfocado principalmente en frontend, con experiencia en aplicaciones web, móviles y sistemas de gestión empresarial.
 
-Actualmente trabajo en **GoodApps**, desarrollando interfaces y funcionalidades con React, Next.js y TypeScript. También desarrollo soluciones para clientes de manera independiente.
+Actualmente trabajo en **GoodApps**, desarrollando interfaces y funcionalidades con React, Next.js y TypeScript. También desarrollo soluciones de software para clientes de manera independiente.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-542080?style=for-the-badge&logo=vercel&logoColor=white)](https://juan-bertossi.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-542080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juan-bertossi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-542080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juani-bertossi-1412b31b1/)
 
 ---
@@ -25,21 +26,30 @@ Actualmente trabajo en **GoodApps**, desarrollando interfaces y funcionalidades 
 
 ---
 
+## Herramientas de desarrollo
+
+- **Claude Code:** desarrollo asistido por inteligencia artificial.
+- **Agent Skills:** instrucciones y flujos de trabajo reutilizables.
+- **Model Context Protocol (MCP):** integración de herramientas y fuentes de contexto con asistentes de IA.
+
+---
+
 ## Experiencia
 
 **Frontend Developer — GoodApps**  
 Junio 2025 – Actualidad
 
 - Desarrollo de interfaces y funcionalidades para aplicaciones web y móviles.
-- Implementación de funcionalidades e integración con APIs.
-- Trabajo con React, Next.js, TypeScript y React Native.
+- Implementación de nuevas funcionalidades e integración con APIs.
+- Trabajo con React, Next.js, TypeScript y React Native con Expo.
+- Uso de Claude Code, Agent Skills y MCP como parte del flujo de desarrollo.
 
 **Desarrollador de software independiente**  
 2024 – Actualidad
 
-- Desarrollo de aplicaciones web para clientes.
-- Sistemas de gestión, catálogos digitales y soluciones comerciales.
-- Diseño e implementación de interfaces adaptables.
+- Desarrollo de aplicaciones web a medida para clientes.
+- Implementación de sistemas de gestión, catálogos digitales y soluciones comerciales.
+- Diseño y desarrollo de interfaces adaptables.
 
 ---
 
@@ -47,15 +57,15 @@ Junio 2025 – Actualidad
 
 ### INVEX — Gestión de Inventario
 
-Sistema web para administrar productos, categorías, movimientos de stock y operaciones comerciales.
+Sistema web orientado a la administración de productos, categorías, movimientos de stock y operaciones comerciales.
 
-**Tecnologías:** React, TypeScript, Supabase.
+**Tecnologías:** React, TypeScript y Supabase.
 
 [Ver proyecto en mi portfolio](https://juan-bertossi.netlify.app/work/invex/)
 
 ### ElectroLux — Catálogo Web
 
-Catálogo digital de productos con navegación por categorías y consultas mediante WhatsApp.
+Catálogo digital para presentar productos y facilitar las consultas de clientes mediante WhatsApp.
 
 [Ver sitio web](https://electroluxcatalogo.pages.dev/) · [Ver proyecto en mi portfolio](https://juan-bertossi.netlify.app/work/electrolux/)
 
@@ -67,6 +77,7 @@ Catálogo digital de productos con navegación por categorías y consultas media
 Instituto Superior Villa del Rosario | 2023–2026
 
 **Certificaciones — Coderhouse**
+
 - Desarrollo Full Stack — Junio 2025
 - Ciberseguridad — Febrero 2025
 
@@ -79,3 +90,4 @@ Instituto Superior Villa del Rosario | 2023–2026
 - **GitHub:** https://github.com/JuanBertossi
 
 *Desarrollo de software orientado a crear soluciones funcionales, claras y mantenibles.*
+  
