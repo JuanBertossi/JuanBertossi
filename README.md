@@ -1,51 +1,81 @@
-<div align="center">
-
 # ¡Hola! Soy Juan Bertossi 👋
 
 ### Frontend Developer | React · Next.js · TypeScript · React Native
 
-Desarrollo aplicaciones web y móviles, con especial interés en interfaces claras, sistemas de gestión y soluciones para negocios.
+Desarrollador de software enfocado principalmente en frontend, con experiencia en aplicaciones web, móviles y sistemas de gestión empresarial.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20sitio-F97316?style=for-the-badge&logo=netlify&logoColor=white)](https://juan-bertossi.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juani-bertossi-1412b31b1/)
+Actualmente trabajo en **GoodApps**, desarrollando interfaces y funcionalidades con React, Next.js y TypeScript. También desarrollo soluciones para clientes de manera independiente.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-542080?style=for-the-badge&logo=vercel&logoColor=white)](https://juan-bertossi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-542080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juani-bertossi-1412b31b1/)
 
-## Sobre mí
+---
 
-- 💻 Trabajo como **Frontend Developer en GoodApps**, desarrollando funcionalidades e interfaces para aplicaciones web y móviles.
-- 🛠️ También desarrollo proyectos de software de forma independiente, especialmente sistemas de gestión y soluciones comerciales.
-- 🎓 Cursé la **Tecnicatura Superior en Desarrollo de Software** en el Instituto Superior Villa del Rosario (2023–2026).
-- 📍 Villa del Rosario, Córdoba, Argentina.
+## Tecnologías
 
-## Tecnologías y herramientas
+![React](https://img.shields.io/badge/React-542080?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-542080?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-542080?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-542080?style=for-the-badge&logo=javascript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-542080?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-542080?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-542080?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-542080?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-542080?style=for-the-badge&logo=git&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+---
+
+## Experiencia
+
+**Frontend Developer — GoodApps**  
+Junio 2025 – Actualidad
+
+- Desarrollo de interfaces y funcionalidades para aplicaciones web y móviles.
+- Implementación de funcionalidades e integración con APIs.
+- Trabajo con React, Next.js, TypeScript y React Native.
+
+**Desarrollador de software independiente**  
+2024 – Actualidad
+
+- Desarrollo de aplicaciones web para clientes.
+- Sistemas de gestión, catálogos digitales y soluciones comerciales.
+- Diseño e implementación de interfaces adaptables.
+
+---
 
 ## Proyectos destacados
 
 ### INVEX — Gestión de Inventario
-Sistema web para administrar productos, categorías, movimientos de stock y operaciones comerciales. Desarrollado con **React, TypeScript y Supabase**.
 
-🔗 [Ver presentación y capturas](https://juan-bertossi.netlify.app/work/invex/)
+Sistema web para administrar productos, categorías, movimientos de stock y operaciones comerciales.
 
-> Proyecto de uso privado. La presentación pública incluye una descripción y capturas, no una demo con acceso libre.
+**Tecnologías:** React, TypeScript, Supabase.
+
+[Ver proyecto en mi portfolio](https://juan-bertossi.netlify.app/work/invex/)
 
 ### ElectroLux — Catálogo Web
-Catálogo de productos orientado a facilitar la consulta y el contacto comercial mediante **WhatsApp**.
 
-🌐 [Visitar sitio](https://electroluxcatalogo.pages.dev/) · 🔗 [Ver presentación](https://juan-bertossi.netlify.app/work/electrolux/)
+Catálogo digital de productos con navegación por categorías y consultas mediante WhatsApp.
+
+[Ver sitio web](https://electroluxcatalogo.pages.dev/) · [Ver proyecto en mi portfolio](https://juan-bertossi.netlify.app/work/electrolux/)
+
+---
+
+## Formación
+
+**Tecnicatura Superior en Desarrollo de Software**  
+Instituto Superior Villa del Rosario | 2023–2026
+
+**Certificaciones — Coderhouse**
+- Desarrollo Full Stack — Junio 2025
+- Ciberseguridad — Febrero 2025
+
+---
 
 ## Contacto
 
-- 🌐 [Portfolio](https://juan-bertossi.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/juani-bertossi-1412b31b1/)
+- **Portfolio:** https://juan-bertossi.netlify.app/
+- **LinkedIn:** https://www.linkedin.com/in/juani-bertossi-1412b31b1/
+- **GitHub:** https://github.com/JuanBertossi
 
+*Desarrollo de software orientado a crear soluciones funcionales, claras y mantenibles.*
