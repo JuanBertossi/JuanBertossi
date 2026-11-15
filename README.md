@@ -8,7 +8,7 @@ Desarrollador de software enfocado principalmente en frontend, con experiencia e
 Actualmente trabajo en **GoodApps**, desarrollando interfaces y funcionalidades con React, Next.js y TypeScript. También desarrollo soluciones de software para clientes de manera independiente.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-542080?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juan-bertossi.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-542080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juani-bertossi-1412b31b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-542080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-bertossi/)
 
 ---
 
